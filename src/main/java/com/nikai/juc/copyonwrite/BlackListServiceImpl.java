@@ -2,8 +2,6 @@ package com.nikai.juc.copyonwrite;
 
 import java.util.Map;
 
-import com.ifeve.book.forkjoin.CopyOnWriteMap;
-
 /**
  * 黑名单服务
  *
